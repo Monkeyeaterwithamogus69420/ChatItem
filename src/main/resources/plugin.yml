@@ -14,10 +14,10 @@ commands:
 permissions:
   chatitem.reload:
     description: Allows reloading the config
-    default: op
+    default: player
   chatitem.use:
     description: Allows your messages to be parsed by the plugin
-    default: op
+    default: player
   chatitem.ignore-cooldown:
     description: Allows you to ignore cooldowns (if enabled)
-    default: op
+    default: player
